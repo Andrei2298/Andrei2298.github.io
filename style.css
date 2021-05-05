@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    
+    background: url("img/fon%20b.jpg");
+    
+    font-family: Consolas;
+    line-height: 1.5;
+    font-size: 17px;
+    
+    
+}
+
+.card {
+    width: 400px;
+    margin:  30px auto;
+    padding: 20px;
+    
+   background-color:
+       #fff;
+       box-shadow: 0 5px 10px
+       #ccc;
+       border-radius: 10px;
+} 
+
+.card-photo {
+    display: block;
+    width: 204px  245px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius:40%; 
+    
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #4a2ebb;;
+}
+
+.card-text {
+    font-size: 15px;
+    color:grey;
+        
+}
+.card-subtitle {
+    font-size: 18px;
+    color:#0c9c74;
+    
+}
+
+.card-list {
+    padding-left: 0;
+    color: chocolate;
+    list-style-position: 
+      inside;
+    font-size: 18px;
+    
+    
+}
+
+.card-info {
+ color:#005affe8;
+    
+}
